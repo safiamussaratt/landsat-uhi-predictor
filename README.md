@@ -45,6 +45,7 @@ landsat-uhi-predictor/
 └── fig_eval.png
 └── fig_hotspot.png
 └── fig_rq_analysis.png
+└── requirements.txt
 ```
 
 ## Getting Started
