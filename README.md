@@ -38,8 +38,8 @@ Urban Heat Islands occur when urban areas experience significantly higher temper
 
 ```
 landsat-uhi-predictor/
-├── README.md
-└── LICENSE
+├── LICENSE
+└── README.md
 └── ds_project.ipynb   # Main notebook: data extraction, preprocessing, indices, modeling, evaluation
 └── fig_eda.png
 └── fig_eval.png
